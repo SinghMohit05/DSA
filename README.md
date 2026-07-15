@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SinghMohit05/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SinghMohit05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SinghMohit05/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SinghMohit05/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/SinghMohit05/DSA/tree/master/0242-valid-anagram) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SinghMohit05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SinghMohit05/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SinghMohit05/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SinghMohit05/DSA/tree/master/0290-word-pattern) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SinghMohit05/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SinghMohit05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

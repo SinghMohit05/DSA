@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/SinghMohit05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SinghMohit05/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SinghMohit05/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/SinghMohit05/DSA/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/SinghMohit05/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SinghMohit05/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/SinghMohit05/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -98,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SinghMohit05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SinghMohit05/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SinghMohit05/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SinghMohit05/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

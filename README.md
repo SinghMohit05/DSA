@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SinghMohit05/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghMohit05/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/SinghMohit05/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/SinghMohit05/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SinghMohit05/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/SinghMohit05/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SinghMohit05/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SinghMohit05/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SinghMohit05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SinghMohit05/DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/SinghMohit05/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SinghMohit05/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SinghMohit05/DSA/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SinghMohit05/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SinghMohit05/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
